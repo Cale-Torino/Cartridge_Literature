@@ -21,6 +21,13 @@ Hence the series DA82 will equate to 28 January 1930 or 1950 or 1970 or 1990 or 
 
 To repeat every 20 years using our 26-letter alphabet, six letters were skipped: A, I, J, O, Q, and Z.
 
+| letter  |  year  | year  | year  | year  | year  |
+| :------------ | :------------ | :------------ | :------------ |:------------ |:------------ |
+|`B`|1928 |1928 |1928 |1928 |1928 |
+|`C`|1928 |1928 |1928 |1928 |1928 |
+|`D`|1928 |1928 |1928 |1928 |1928 |
+|`E`|1928 |1928 |1928 |1928 |1928 |
+
 B 1928 1948 1968 1988 2008
 C 1929 1949 1969 1989 2009
 D 1930 1950 1970 1990 2010
