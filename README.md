@@ -46,7 +46,33 @@ To repeat every 20 years using our 26-letter alphabet, six letters were skipped:
 |`X`|1946 |1966 |1986 |2006 |2026 |
 |`Y`|1947 |1967 |1987 |2007 |2027 |
 
+[<img src="img/win1.jpeg" width="500"/>](img/win1.jpeg)
+
+[<img src="img/win2.jpeg" width="500"/>](img/win2.jpeg)
+
+[<img src="img/win3.jpeg" width="500"/>](img/win3.jpeg)
+
 [<img src="img/win4.jpeg" width="500"/>](img/win4.jpeg)
+
+#### **Remington**
+
+[<img src="img/rem1.jpeg" width="500"/>](img/rem1.jpeg)
+
+[<img src="img/rem2.jpeg" width="500"/>](img/rem2.jpeg)
+
+[<img src="img/rem3.jpeg" width="500"/>](img/rem3.jpeg)
+
+[<img src="img/rem4.jpeg" width="500"/>](img/rem4.jpeg)
+
+[<img src="img/rem5.jpeg" width="500"/>](img/rem5.jpeg)
+
+#### **Sellier & Bellot**
+
+[<img src="img/sab1.jpeg" width="500"/>](img/sab1.jpeg)
+
+[<img src="img/sab2.jpeg" width="500"/>](img/sab2.jpeg)
+
+[<img src="img/sab3.jpeg" width="500"/>](img/sab3.jpeg)
 
 # Links
 
